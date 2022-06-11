@@ -1,0 +1,7 @@
+{
+  "name": "Android Discord",
+  "description": "🤖 Made with love by Android Discord Music Bot built with discord.js",
+  "repository": "https://github.com/gtagamermods/admusicbot",
+  "logo": "https://media.discordapp.net/attachments/916701239142654013/969537703068696626/1651226065661.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
